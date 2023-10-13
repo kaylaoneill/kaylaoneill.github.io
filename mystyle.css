@@ -1,0 +1,77 @@
+/* Color Palette
+
+Dark green #3c8453 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
+Sandy Beige #bcaa96 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
+Light blue rgb(91, 209, 215) Taken from: Background Color from: https://zyro.com/ca/preview/brooke
+Light grey #3d3d4d6 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
+Off-white #f6f6f6 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
+DimGrey #696969 Taken from: https://www.w3schools.com/colors/colors_names.asp
+DarkSlateGray #2F4F4F Taken from: https://www.w3schools.com/colors/colors_names.asp
+*/
+
+
+body {
+	background: #f6f6f6; 
+}
+
+* { 
+	font-family: helvetica;
+	font-size: 18;
+}
+
+h1 { 
+	color: #3c8453; font-size: 22;
+}
+ 
+ h2 { 
+	color: #2F4F4F; font-size: 20;
+}
+
+h3 {
+	color: #696969; font-size: 18;
+} 
+
+.aboutme {
+border: 1px solid black;
+  background-color:#bcaa96 ;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  }
+ 
+ .content {
+	  max-width: 1200px;
+  margin: auto; 
+ } 
+
+ /* HOME
+ ----------------------------*/
+
+.home.content-wrapper {
+	background: #3d3d4d6
+}
+
+.background {
+	display: inline-block;
+	margin: 10 px;
+}
+
+  /* Resume 
+  --------------------------------*/
+  
+  /* Links
+ ----------------------------------*/
+ a { 
+	color: #3c8453;
+ }
+  
+a.external { 
+	color: #696969
+ }
+  
+  /*Footer
+  ------------------------------------*/
+  footer {
+	background: #222:
+} 
