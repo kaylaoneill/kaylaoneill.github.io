@@ -14,11 +14,12 @@ body {
 }
 
 * { 
-	font: helvetica
+	font: helvetica;
+	font-size: 18
 }
 
 h1 { 
-	color: #3c8453; font size: 20;
+	color: #3c8453; font size: 24;
 }
  
 h3 {
