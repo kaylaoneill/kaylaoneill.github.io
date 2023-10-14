@@ -39,7 +39,7 @@ border: 1px solid black;
   padding-bottom: 50px;
   padding-left: 80px;
   }
- 
+/* This was taken from w3schools, css margin page */ 
  .content {
 	 border: 1px solid black;
      margin-top: 100px;
