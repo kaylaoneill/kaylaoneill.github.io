@@ -8,7 +8,16 @@ Off-white #f6f6f6 Taken from CSS Essentials : https://www.linkedin.com/learning/
 DimGrey #696969 Taken from: https://www.w3schools.com/colors/colors_names.asp
 DarkSlateGray #2F4F4F Taken from: https://www.w3schools.com/colors/colors_names.asp
 */
-
+/* Nav- help taken from W3Schools in terms of styling and removing bulletpoints, taken from many examples, all fry "try me" from W33schools */
+.navstyle {
+	list-style-type: none;
+  	margin: 20px;
+  	padding: 0;
+  	overflow: hidden;
+  	background-color: #333;
+	font-color: #3c8453; 
+	text-align: center;
+}
 
 body {
 	background: #f6f6f6; 
@@ -16,19 +25,19 @@ body {
 
 * { 
 	font-family: helvetica;
-	font-size: 18;
+	font-size: 18pt;
 }
 
 h1 { 
-	color: #3c8453; font-size: 22;
+	color: #3c8453; font-size: 22pt;
 }
  
  h2 { 
-	color: #2F4F4F; font-size: 20;
+	color: #2F4F4F; font-size: 20pt;
 }
 
 h3 {
-	color: #696969; font-size: 18;
+	color: #696969; font-size: 18pt;
 } 
 /* This was an old idea that I changed */
 . {
