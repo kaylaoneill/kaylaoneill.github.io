@@ -1,6 +1,6 @@
 /* Color Palette
 
-Dark green ##006400 Taken from w3schools :https://www.w3schools.com/colors/colors_names.asp
+Dark green #006400 Taken from w3schools :https://www.w3schools.com/colors/colors_names.asp
 Sandy Beige #bcaa96 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
 Light blue rgb(91, 209, 215) Taken from: Background Color from: https://zyro.com/ca/preview/brooke
 Light grey #3d3d4d6 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
@@ -15,7 +15,7 @@ DarkSlateGray #2F4F4F Taken from: https://www.w3schools.com/colors/colors_names.
   	padding: 0px;
   	overflow: hidden;
   	background-color:#bcaa96;
-	font-color: #3c8453; 
+	font-color: #006400; 
 	text-align: center;
 }
 .navliststyle {
@@ -69,7 +69,7 @@ h4 {
  ----------------------------*/
 
 .home.content-wrapper {
-	background-color: #3d3d4d6
+	background-color: #3d3d4d6;
 }
 
 .background {
