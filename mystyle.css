@@ -10,15 +10,16 @@ DarkSlateGray #2F4F4F Taken from: https://www.w3schools.com/colors/colors_names.
 */
 /* Nav- help taken from W3Schools in terms of styling and removing bulletpoints, taken from many examples, all fry "try me" from W33schools */
 .navstyle {
-	list-style-type: none;
   	margin: 20px;
   	padding: 0;
   	overflow: hidden;
-  	background-color: #333;
+  	background-color:#bcaa96;
 	font-color: #3c8453; 
 	text-align: center;
 }
-
+.navliststyle {
+	list-style-type: none;
+}
 body {
 	background: #f6f6f6; 
 }
