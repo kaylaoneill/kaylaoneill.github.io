@@ -1,6 +1,6 @@
 /* Color Palette
 
-Dark green #3c8453 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
+Dark green ##006400 Taken from w3schools :https://www.w3schools.com/colors/colors_names.asp
 Sandy Beige #bcaa96 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
 Light blue rgb(91, 209, 215) Taken from: Background Color from: https://zyro.com/ca/preview/brooke
 Light grey #3d3d4d6 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
@@ -31,7 +31,7 @@ body {
 }
 
 h1 { 
-	color: #3c8453; font-size: 22pt;
+	color: #006400; font-size: 22pt;
 }
  
  h2 { 
@@ -83,7 +83,7 @@ h4 {
   /* Links
  ----------------------------------*/
  a { 
-	color: #3c8453;
+	color: #006400;
  }
   
 a.external { 
