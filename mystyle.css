@@ -8,7 +8,8 @@ Off-white #f6f6f6 Taken from CSS Essentials : https://www.linkedin.com/learning/
 DimGrey #696969 Taken from: https://www.w3schools.com/colors/colors_names.asp
 DarkSlateGray #2F4F4F Taken from: https://www.w3schools.com/colors/colors_names.asp
 */
-/* Nav- help taken from W3Schools in terms of styling and removing bulletpoints, taken from many examples, all fry "try me" from W33schools */
+
+/* Nav- help taken from W3Schools in terms of styling and removing bulletpoints, all from "try me" from W33schools. Colors changed to match my color scheme above */
 .navstyle {
   	margin: 20px;
   	padding: 0;
@@ -40,6 +41,10 @@ h1 {
 h3 {
 	color: #696969; font-size: 18pt;
 } 
+h4 {
+	color: #696969; font-size: 18pt;
+}
+
 /* This was an old idea that I changed */
 . {
 border: 1px solid black;
@@ -49,7 +54,8 @@ border: 1px solid black;
   padding-bottom: 50px;
   padding-left: 80px;
   }
-/* This was taken from w3schools, css margins page with some changes */ 
+
+/* This was taken from w3schools, css margins page with some changes to match the margin I wanted and a thicker border */ 
  .content {
 	border: 4px solid black;
 	margin-top: 100px;
