@@ -1,6 +1,6 @@
 /* Color Palette
 
-Dark green #006400 Taken from w3schools :https://www.w3schools.com/colors/colors_names.asp
+Dark green #006400 Taken from w3schools :https://www.w3schools.com/colors/colors_names.asp, idea from CSS essentials
 Sandy Beige #bcaa96 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
 Light blue rgb(91, 209, 215) Taken from: Background Color from: https://zyro.com/ca/preview/brooke
 Light grey #3d3d4d6 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
@@ -45,7 +45,7 @@ h4 {
 	color: #696969; font-size: 18pt;
 }
 
-/* This was an old idea that I changed */
+
 .background {
 	  border: 1px solid black;
 	  background-color:#bcaa96;
@@ -55,7 +55,8 @@ h4 {
 	  padding-left: 80px;
   }
 
-/* This was taken from w3schools, css margins page with some changes to match the margin I wanted and a thicker border */ 
+/* This was taken from w3schools, css margins page with some changes to match the margin I wanted and a thicker border.
+Border idea was taken from this example:http://www.callieschweitzer.com/ but I changed the width and thickness. */ 
  .content {
 	border: 4px solid black;
 	margin-top: 100px;
