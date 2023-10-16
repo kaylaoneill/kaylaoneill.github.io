@@ -7,6 +7,7 @@ Light grey #3d3d4d6 Taken from CSS Essentials : https://www.linkedin.com/learnin
 Off-white #f6f6f6 Taken from CSS Essentials : https://www.linkedin.com/learning/css-essential-training
 DimGrey #696969 Taken from: https://www.w3schools.com/colors/colors_names.asp
 DarkSlateGray #2F4F4F Taken from: https://www.w3schools.com/colors/colors_names.asp
+Black #000000 Taken from: https://www.w3schools.com/colors/colors_names.asp
 The reasons I picked the colors I did, was they are very earthy tones. I wanted my website to have a theme that matched my content- envrionmental based work and research */
 
 /* Nav- help taken from W3Schools in terms of styling and removing bulletpoints, all from "try me" from W33schools. Colors changed to match my color scheme above */
@@ -28,6 +29,7 @@ body {
 * { 
 	font-family: helvetica;
 	font-size: 18pt;
+	font-color: #000000; 
 }
 
 h1 { 
