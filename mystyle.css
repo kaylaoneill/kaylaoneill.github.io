@@ -29,7 +29,8 @@ body {
 * { 
 	font-family: helvetica;
 	font-size: 18pt;
-	font-color: #000000; 
+	font-color: #000000;
+	font-style: normal;
 }
 
 h1 { 
