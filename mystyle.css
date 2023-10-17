@@ -50,7 +50,7 @@ h4 {
 }
 
 /* This is the box around my photo, to make it pop and to tie in the color schemes */
-.background {
+#background {
 	  border: 1px solid black;
 	  background-color:#bcaa96;
 	  padding-top: 50px;
