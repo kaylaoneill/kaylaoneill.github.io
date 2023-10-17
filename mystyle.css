@@ -22,6 +22,7 @@ The reasons I picked the colors I did, was they are very earthy tones. I wanted 
 .navliststyle {
 	list-style-type: none;
 }
+/* I wanted my background to not be a plain white. I thought the off-white was a nice subtle touch */
 body {
 	background: #f6f6f6; 
 }
@@ -70,9 +71,12 @@ Border idea was taken from this example:http://www.callieschweitzer.com/ but I c
 	padding: 50px;
  } 
 
+ /* I decided to have both my home and resume page be the same. Originally I thought about making them a different style, but in the end, I wanted a cohesive look */
  /* HOME
  ----------------------------*/
-
+ /* Resume 
+  --------------------------------*/
+  
 }
 
 .background {
@@ -80,8 +84,6 @@ Border idea was taken from this example:http://www.callieschweitzer.com/ but I c
 	margin: 10px;
 }
 
-  /* Resume 
-  --------------------------------*/
   
   /* Links
  ----------------------------------*/
