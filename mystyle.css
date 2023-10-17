@@ -22,11 +22,11 @@ The reasons I picked the colors I did, was they are very earthy tones. I wanted 
 .navliststyle {
 	list-style-type: none;
 }
-/* I wanted my background to not be a plain white. I thought the off-white was a nice subtle touch */
+/* I wanted my background to not be a plain white. I thought the off-white was a nice subtle touch. Saw this idea in https://www.linkedin.com/learning/css-essential-training */
 body {
 	background: #f6f6f6; 
 }
-
+/*Font family I just searched through different fonts until I found one I liked. Size I just adjusted until I liked it  */
 * { 
 	font-family: helvetica;
 	font-size: 16pt;
@@ -34,7 +34,7 @@ body {
 	font-style: normal;
 	font-weight: normal;
 }
-
+/*Heading sizez I just adjusted until I liked it on the page. Colors I picked from my color pallete. */
 h1 { 
 	color: #006400; font-size: 22pt;
 }
@@ -78,14 +78,15 @@ Border idea was taken from this example:http://www.callieschweitzer.com/ but I c
   --------------------------------*/
   
 }
-
+ /* I didn't like the look of the content right against the sides of the website, used w3schools to help add this */
 .background {
 	display: inline-block;
 	margin: 10px;
 }
 
   
-  /* Links
+  /* Links 
+colors were taken from my color scheme until I found ones I liked. Grey and Green seemed to go with my themes. 
  ----------------------------------*/
  a { 
 	color: #006400;
