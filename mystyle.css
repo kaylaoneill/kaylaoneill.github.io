@@ -35,7 +35,7 @@ body {
 /*Font family I just searched through different fonts until I found one I liked. Size I just adjusted until I liked it  */
 * { 
 	font-family: helvetica;
-	font-size: 16pt;
+	font-size: 15pt;
 	font-color: #000000;
 	font-style: normal;
 	font-weight: normal;
@@ -53,7 +53,7 @@ h3 {
 	color: #696969; font-size: 18pt;
 } 
 h4 {
-	color: #696969; font-size: 17pt;
+	color: #696969; font-size: 16pt;
 }
 
 /* This is the box around my photo, to make it pop and to tie in the color schemes */
