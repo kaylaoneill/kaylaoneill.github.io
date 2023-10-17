@@ -76,13 +76,6 @@ Border idea was taken from this example:http://www.callieschweitzer.com/ but I c
  ----------------------------*/
  /* Resume 
   --------------------------------*/
-  
-}
- /* I didn't like the look of the content right against the sides of the website, used w3schools to help add this */
-.background {
-	display: inline-block;
-	margin: 10px;
-}
 
   
   /* Links 
