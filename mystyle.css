@@ -54,9 +54,9 @@ h4 {
 	  border: 1px solid black;
 	  background-color:#bcaa96;
 	  padding-top: 50px;
-	  padding-right: 310px;
+	  padding-right: auto;
 	  padding-bottom: 50px;
-	  padding-left: 310px;
+	  padding-left: auto;
   }
 
 /* This was taken from w3schools, css margins page with some changes to match the margin I wanted and a thicker border.
