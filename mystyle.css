@@ -10,6 +10,12 @@ DarkSlateGray #2F4F4F Taken from: https://www.w3schools.com/colors/colors_names.
 Black #000000 Taken from: https://www.w3schools.com/colors/colors_names.asp
 The reasons I picked the colors I did, was they are very earthy tones. I wanted my website to have a theme that matched my content- envrionmental based work and research */
 
+ /* I decided to have both my home and resume page be the same. Originally I thought about making them a different style, but in the end, I wanted a cohesive look */
+ /* HOME
+ ----------------------------*/
+ /* Resume 
+  --------------------------------*/
+
 /* Nav- help taken from W3Schools in terms of styling and removing bulletpoints, all from "try me" from W33schools. Colors changed to match my color scheme above */
 .navstyle {
   	margin: 20px;
@@ -71,13 +77,6 @@ Border idea was taken from this example:http://www.callieschweitzer.com/ but I c
 	padding: 50px;
  } 
 
- /* I decided to have both my home and resume page be the same. Originally I thought about making them a different style, but in the end, I wanted a cohesive look */
- /* HOME
- ----------------------------*/
- /* Resume 
-  --------------------------------*/
-
-  
   /* Links 
 colors were taken from my color scheme until I found ones I liked. Grey and Green seemed to go with my themes. 
  ----------------------------------*/
