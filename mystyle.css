@@ -40,7 +40,7 @@ body {
 	font-style: normal;
 	font-weight: normal;
 }
-/*Heading sizez I just adjusted until I liked it on the page. Colors I picked from my color pallete. */
+/*Heading sizes I just adjusted until I liked it on the page. Colors I picked from my color pallete. */
 h1 { 
 	color: #006400; font-size: 22pt;
 }
@@ -52,9 +52,6 @@ h1 {
 h3 {
 	color: #696969; font-size: 18pt;
 } 
-h4 {
-	color: #696969; font-size: 16pt;
-}
 
 /* This is the box around my photo, to make it pop and to tie in the color schemes */
 #background {
