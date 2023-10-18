@@ -49,7 +49,7 @@ h1 {
 }
 
 h3 {
-	color: #696969; font-size: 18pt;
+	color: #696969; font-size: 18pt; font-style: italic;
 } 
 
 /* This is the box around my photo, to make it pop and to tie in the color schemes */
