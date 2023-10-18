@@ -42,7 +42,7 @@ body {
 }
 /*Heading sizes I just adjusted until I liked it on the page. Colors I picked from my color pallete. */
 h1 { 
-	color: #006400; font-size: 22pt; text-transform: uppercase;
+	color: #006400; font-size: 22pt; text-align: center;
 }
  
  h2 { 
