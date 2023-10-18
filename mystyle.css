@@ -45,7 +45,7 @@ h1 {
 }
  
  h2 { 
-	color: #2F4F4F; font-size: 20pt;
+	color: #2F4F4F; font-size: 20pt; font-variant: small-caps;
 }
 
 h3 {
