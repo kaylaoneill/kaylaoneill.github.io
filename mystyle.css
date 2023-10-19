@@ -9,7 +9,7 @@ DarkSlateGray #2F4F4F Taken from: https://www.w3schools.com/colors/colors_names.
 Black #000000 Taken from: https://www.w3schools.com/colors/colors_names.asp
 The reasons I picked the colors I did, was they are very earthy tones. I wanted my website to have a theme that matched my content- envrionmental based work and research */
 
- /* I decided to have both my home and resume page be the same. Originally I thought about making them a different style, but in the end, I wanted a cohesive look */
+ /* I decided to have both my home and resume page be the same. Originally I thought about making them a different style, but in the end, I wanted a cohesive look. I left these headers here incase I ever add more pages that use a different style */
  /* HOME
  ----------------------------*/
  /* Resume 
@@ -31,7 +31,7 @@ The reasons I picked the colors I did, was they are very earthy tones. I wanted 
 body {
 	background: #f6f6f6; 
 }
-/*Font family I just searched through different fonts until I found one I liked. Size I just adjusted until I liked it  */
+/*Font family I just searched through different fonts until I found that I liked helvetica. After that, I did complimentary font based on: https://typ.io/fonts/helvetica. Size I just adjusted until I liked it  */
 * { 
 	font-family: helvetica;
 	font-size: 15pt;
@@ -39,6 +39,10 @@ body {
 	font-style: normal;
 	font-weight: normal;
 }
+p {
+	font-family: Georgia;
+}
+
 /*Heading sizes I just adjusted until I liked it on the page. Colors I picked from my color pallete. */
 h1 { 
 	color: #006400; font-size: 22pt; text-align: center;
