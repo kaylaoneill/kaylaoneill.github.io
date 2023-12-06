@@ -27,9 +27,9 @@ The reasons I picked the colors I did, was they are very earthy tones. I wanted 
 .navliststyle {
 	list-style-type: none;
 }
-/* I wanted my background to not be a plain white. I thought the off-white was a nice subtle touch. Saw this idea in https://www.linkedin.com/learning/css-essential-training */
+/* #f6f6f6 I wanted my background to not be a plain white. I thought the off-white was a nice subtle touch. Saw this idea in https://www.linkedin.com/learning/css-essential-training */
 body {
-	background: #f6f6f6; 
+	background: #bcaa96; 
 }
 /*Font family I just searched through different fonts until I found that I liked helvetica. After that, I did complimentary font based on: https://typ.io/fonts/helvetica. Size I just adjusted until I liked it  */
 * { 
